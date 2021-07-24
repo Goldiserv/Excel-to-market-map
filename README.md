@@ -5,6 +5,7 @@ Excel to Market Map (EtMM) is an Excel spreadsheet tool that helps create market
 This repository serves as a place for bug reports, feature requests, and general discussion.
 
 The problem this tool addresses is described [here](https://kern.al/idea/spreadsheet-market-map)
+
 ---
 
 ### Latest version
@@ -35,3 +36,15 @@ Users may edit this Software, unprotect sheets, and edit macros at their own ris
 In cases where such edits have occurred, Goldiserv reserves the right to not provide support.
 
 GOLDISERV LICENSES THIS LICENSED SOFTWARE "AS IS," AND MAKES NO EXPRESS OR IMPLIED WARRANTY OF ANY KIND. GOLDISERV SPECIFICALLY DISCLAIMS ALL INDIRECT OR IMPLIED WARRANTIES TO THE FULL EXTENT ALLOWED BY APPLICABLE LAW, INCLUDING WITHOUT LIMITATION ALL IMPLIED WARRANTIES OF, NON-INFRINGEMENT, MERCHANTABILITY, TITLE OR FITNESS FOR ANY PARTICULAR PURPOSE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY GOLDISERV, ITS AGENTS OR EMPLOYEES SHALL CREATE A WARRANTY.
+
+### Product screenshots
+#### Sheet 1
+![sheet-1](/assets/sheet-1.png)
+#### Sheet 2
+![sheet-2](/assets/sheet-2.png)
+#### Sheet 3
+![sheet-3](/assets/sheet-3.png)
+#### Sheet 4
+![sheet-4](/assets/sheet-4.png)
+#### Sheet 5
+![sheet-5](/assets/sheet-5.png)
