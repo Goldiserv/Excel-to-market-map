@@ -9,10 +9,10 @@ The problem this tool addresses is described [here](https://kern.al/idea/spreads
 ---
 
 ### Latest version
-- v1.09
+- v1.10
 
 ### Features
-- Print to a sharable PDF
+- Print to a sharable PDF (now Mac compatible)
 - Use either logos from web URLs or logos saved to your local computer
 - Automatically place logos into product categories you define
 - Make the logos clickable - navigating to a URL of your choice
